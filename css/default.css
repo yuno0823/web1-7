@@ -1,3 +1,24 @@
 @charset "UTF-8"; 
+*{
+  margin:0;
+  padding:0;
+}
+
 body{
-  
+  background-color: lemonchiffon;
+}
+header{
+  background-color:teal;
+}
+#main1{
+  background-color:coral;
+}
+#main2{
+  background-color:steelblue;
+}
+aside{
+background-color:seagreen;
+}
+footer{
+  background-color:yellowgreen;
+}
