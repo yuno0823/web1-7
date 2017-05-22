@@ -10,15 +10,28 @@ body{
 header{
   background-color:teal;
 }
+#main{
+  background-color:cadetblue;
+  width: calc(100% - 200px);
+  min-width: 500px;
+  float: left;
+}
 #main1{
   background-color:coral;
+  width: 500px;
+  float: left;
 }
 #main2{
   background-color:steelblue;
+  width: 500px;
+  float: left;
 }
 aside{
 background-color:seagreen;
+  width: 200px;
+  float: right;
 }
 footer{
   background-color:yellowgreen;
+  clear: both;
 }
